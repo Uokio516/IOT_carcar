@@ -21,7 +21,7 @@ control_client 連接到 control_server_host 和 control_server_port，用於接
 ‧降低延遲：控制指令是即時性的，可能需要更快速的響應，將影像和控制指令分開可以避免影像傳輸佔用頻寬影響指令的傳輸。
 ‧便於管理和維護：分開連接讓每個 WebSocket 負責特定的任務，便於進行錯誤排除和管理。
 
-https://www.youtube.com/watch?v=HCwjJNgR1QY
+https://youtu.be/HJB0l5dntQM
 
 https://github.com/user-attachments/assets/57641af9-c26c-4a5c-90f1-13bc8e73f7a2
 
